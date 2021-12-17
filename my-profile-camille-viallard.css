@@ -1,0 +1,70 @@
+<body>
+	<div class="container">
+		<div class="introduction">
+			<h1>Hello, I am <strong>Camille</strong> !</h1>
+			<a href="https://goopics.net/i/w4funs"><img src="https://i.goopics.net/w4funs.jpg" alt="Image"></a>
+			<p>I am a student at Kedge Business School, in Marketing. </p>
+			<a class="first-link" href="https://www.linkedin.com/in/camille-viallard-b520291b4/"><b>Click here to visit my LinkedIn profile !</b></a>
+		</div>
+
+		<div class="cardwhite">
+			<h2><strong>Sneakers</strong></h2>
+			<a href="https://goopics.net/i/q338ry"><img src="https://i.goopics.net/q338ry.jpg" alt="Image"></a>
+			<p> I am passionate about <strong>Sneakers</strong>.</p>
+		</div>
+
+		<div class="cardwhite">
+			<h2><strong>Bretagne</strong></h2>
+			<a href="https://goopics.net/i/cjy752"><img src="https://i.goopics.net/cjy752.jpg" alt="Image"></a>
+			<p>I come from <strong>Bretagne</strong>, which is a communication association.</p>
+		</div>
+
+		<div class="cardwhite">
+			<h2><strong>Penguins</strong></h2>
+			<a href="https://goopics.net/i/es5u6g"><img src="https://i.goopics.net/es5u6g.jpg" alt="Image"></a>
+			<p>My favorite animals are <strong>Penguins</strong>.</p>
+		</div>
+
+		<div class="cardwhite">
+			<h2><strong>Here are my social media !</strong></h2>
+			<ul class="list-inline">
+				<li>
+					<a class="follow-link" href="https://www.linkedin.com/in/camille-viallard-b520291b4/">LinkedIn</a>
+				</li>
+				<li>
+					<a class="follow-link" href="https://www.instagram.com/camillevlrd/">Instagram</a>
+				</li>
+			</ul>
+		</div>
+
+	</div>
+	
+<iframe id="wanteeedPanel" data-version="1.16.1" allowtransparency="true" style="
+      width: 335px !important;
+      height: 280px !important;
+      min-width: 0;
+      min-height: 0;
+      display: none;
+      position: fixed;
+      top: 10px;
+      right: 10px;
+      left: auto;
+      border: none;
+      background-color: #ffffff;
+      overflow: hidden;
+      z-index: 9145739864;
+      clip: auto;
+      border-radius: 3px;
+      box-shadow: rgb(181, 181, 181) 1px 1px 3px 2px;
+    "></iframe><iframe id="wanteeedTestMaker" data-version="1.16.1" allowtransparency="true" style="
+      width: 350px;
+      height: 0;
+      transition: .2s ease-out;
+      position: fixed;
+      top: 10px;
+      left: 0;
+      overflow: hidden;
+      z-index: 45739864;
+      clip: auto;
+      border: none;
+    "></iframe></body>
